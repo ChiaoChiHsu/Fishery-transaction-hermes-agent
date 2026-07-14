@@ -1,0 +1,1 @@
+Prefer traditional Chinese and English.
