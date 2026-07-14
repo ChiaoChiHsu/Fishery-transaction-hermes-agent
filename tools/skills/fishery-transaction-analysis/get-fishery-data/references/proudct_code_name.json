@@ -1,0 +1,2122 @@
+[
+  {
+    "product_code": "1011",
+    "product_name": "吳郭魚"
+  },
+  {
+    "product_code": "1012",
+    "product_name": "尼羅紅魚"
+  },
+  {
+    "product_code": "1019",
+    "product_name": "其他吳郭"
+  },
+  {
+    "product_code": "1021",
+    "product_name": "鯉魚"
+  },
+  {
+    "product_code": "1022",
+    "product_name": "鯽魚"
+  },
+  {
+    "product_code": "1023",
+    "product_name": "草魚"
+  },
+  {
+    "product_code": "1024",
+    "product_name": "大頭鰱"
+  },
+  {
+    "product_code": "1025",
+    "product_name": "竹葉鰱"
+  },
+  {
+    "product_code": "1026",
+    "product_name": "鯁魚"
+  },
+  {
+    "product_code": "1027",
+    "product_name": "烏鰡"
+  },
+  {
+    "product_code": "1029",
+    "product_name": "其他鯉類"
+  },
+  {
+    "product_code": "1031",
+    "product_name": "白鰻"
+  },
+  {
+    "product_code": "1039",
+    "product_name": "其他鰻類"
+  },
+  {
+    "product_code": "1041",
+    "product_name": "虱目魚"
+  },
+  {
+    "product_code": "1042",
+    "product_name": "虱目魚肚"
+  },
+  {
+    "product_code": "1043",
+    "product_name": "虱目魚頭"
+  },
+  {
+    "product_code": "1051",
+    "product_name": "烏仔魚"
+  },
+  {
+    "product_code": "1061",
+    "product_name": "豆仔魚"
+  },
+  {
+    "product_code": "1062",
+    "product_name": "烏公"
+  },
+  {
+    "product_code": "1063",
+    "product_name": "烏母"
+  },
+  {
+    "product_code": "1071",
+    "product_name": "金目鱸"
+  },
+  {
+    "product_code": "1072",
+    "product_name": "加州鱸"
+  },
+  {
+    "product_code": "1073",
+    "product_name": "七星鱸"
+  },
+  {
+    "product_code": "1074",
+    "product_name": "銀花鱸"
+  },
+  {
+    "product_code": "1075",
+    "product_name": "龍王"
+  },
+  {
+    "product_code": "1081",
+    "product_name": "鱺魚"
+  },
+  {
+    "product_code": "1086",
+    "product_name": "三角仔、金錢仔【養】"
+  },
+  {
+    "product_code": "1091",
+    "product_name": "鱔魚"
+  },
+  {
+    "product_code": "1101",
+    "product_name": "土剎"
+  },
+  {
+    "product_code": "1102",
+    "product_name": "泥鰍"
+  },
+  {
+    "product_code": "1111",
+    "product_name": "鯰魚"
+  },
+  {
+    "product_code": "1121",
+    "product_name": "鱒魚"
+  },
+  {
+    "product_code": "1131",
+    "product_name": "牛蛙"
+  },
+  {
+    "product_code": "1141",
+    "product_name": "田蛙"
+  },
+  {
+    "product_code": "1151",
+    "product_name": "甲魚"
+  },
+  {
+    "product_code": "1161",
+    "product_name": "加鱲"
+  },
+  {
+    "product_code": "1162",
+    "product_name": "赤翅"
+  },
+  {
+    "product_code": "1163",
+    "product_name": "黑鯛"
+  },
+  {
+    "product_code": "1164",
+    "product_name": "紅鰽"
+  },
+  {
+    "product_code": "1165",
+    "product_name": "黃鍚鯛"
+  },
+  {
+    "product_code": "1166",
+    "product_name": "海鱺"
+  },
+  {
+    "product_code": "1167",
+    "product_name": "黃花"
+  },
+  {
+    "product_code": "1168",
+    "product_name": "花身"
+  },
+  {
+    "product_code": "1169",
+    "product_name": "其他鯛類"
+  },
+  {
+    "product_code": "1170",
+    "product_name": "象魚、臭肚"
+  },
+  {
+    "product_code": "1171",
+    "product_name": "青斑"
+  },
+  {
+    "product_code": "1172",
+    "product_name": "淡水珍珠石斑"
+  },
+  {
+    "product_code": "1173",
+    "product_name": "龍膽石斑"
+  },
+  {
+    "product_code": "1174",
+    "product_name": "珍珠龍膽/龍虎斑"
+  },
+  {
+    "product_code": "1179",
+    "product_name": "其他石斑魚"
+  },
+  {
+    "product_code": "1181",
+    "product_name": "黃臘鰺(紅杉)"
+  },
+  {
+    "product_code": "1191",
+    "product_name": "香魚"
+  },
+  {
+    "product_code": "1201",
+    "product_name": "富貴魚、燕鯧"
+  },
+  {
+    "product_code": "1272",
+    "product_name": "午仔魚"
+  },
+  {
+    "product_code": "1511",
+    "product_name": "金龍、石鱸"
+  },
+  {
+    "product_code": "1601",
+    "product_name": "烏母(養)"
+  },
+  {
+    "product_code": "1602",
+    "product_name": "烏公(養)"
+  },
+  {
+    "product_code": "1603",
+    "product_name": "烏殼(養)"
+  },
+  {
+    "product_code": "1799",
+    "product_name": "其他黃花"
+  },
+  {
+    "product_code": "1999",
+    "product_name": "其他養殖"
+  },
+  {
+    "product_code": "2010",
+    "product_name": "美軟魚、大面側仔"
+  },
+  {
+    "product_code": "2011",
+    "product_name": "加鱲"
+  },
+  {
+    "product_code": "2012",
+    "product_name": "赤宗"
+  },
+  {
+    "product_code": "2013",
+    "product_name": "盤仔"
+  },
+  {
+    "product_code": "2014",
+    "product_name": "赤翅"
+  },
+  {
+    "product_code": "2015",
+    "product_name": "黑鯛"
+  },
+  {
+    "product_code": "2016",
+    "product_name": "白鯛"
+  },
+  {
+    "product_code": "2017",
+    "product_name": "花身"
+  },
+  {
+    "product_code": "2018",
+    "product_name": "大目仔"
+  },
+  {
+    "product_code": "2019",
+    "product_name": "其他鯛類"
+  },
+  {
+    "product_code": "2021",
+    "product_name": "金線"
+  },
+  {
+    "product_code": "2031",
+    "product_name": "赤海"
+  },
+  {
+    "product_code": "2041",
+    "product_name": "秋姑"
+  },
+  {
+    "product_code": "2042",
+    "product_name": "紅魚"
+  },
+  {
+    "product_code": "2047",
+    "product_name": "紅新娘"
+  },
+  {
+    "product_code": "2048",
+    "product_name": "紅鰽海"
+  },
+  {
+    "product_code": "2051",
+    "product_name": "紅目鰱"
+  },
+  {
+    "product_code": "2060",
+    "product_name": "紅喉"
+  },
+  {
+    "product_code": "2061",
+    "product_name": "黃花"
+  },
+  {
+    "product_code": "2062",
+    "product_name": "三牙"
+  },
+  {
+    "product_code": "2063",
+    "product_name": "黑口"
+  },
+  {
+    "product_code": "2064",
+    "product_name": "白口"
+  },
+  {
+    "product_code": "2065",
+    "product_name": "火口"
+  },
+  {
+    "product_code": "2066",
+    "product_name": "油口"
+  },
+  {
+    "product_code": "2067",
+    "product_name": "鮸魚"
+  },
+  {
+    "product_code": "2069",
+    "product_name": "其他黃花"
+  },
+  {
+    "product_code": "2071",
+    "product_name": "四破"
+  },
+  {
+    "product_code": "2072",
+    "product_name": "目孔"
+  },
+  {
+    "product_code": "2073",
+    "product_name": "硬尾"
+  },
+  {
+    "product_code": "2074",
+    "product_name": "巴闌"
+  },
+  {
+    "product_code": "2075",
+    "product_name": "紅尾"
+  },
+  {
+    "product_code": "2076",
+    "product_name": "鐵甲"
+  },
+  {
+    "product_code": "2077",
+    "product_name": "甘瓜仔"
+  },
+  {
+    "product_code": "2078",
+    "product_name": "青魽"
+  },
+  {
+    "product_code": "2079",
+    "product_name": "紅魽"
+  },
+  {
+    "product_code": "2080",
+    "product_name": "黑魽"
+  },
+  {
+    "product_code": "2081",
+    "product_name": "油魽"
+  },
+  {
+    "product_code": "2082",
+    "product_name": "紅古"
+  },
+  {
+    "product_code": "2083",
+    "product_name": "紅尾冬"
+  },
+  {
+    "product_code": "2084",
+    "product_name": "黑尾冬"
+  },
+  {
+    "product_code": "2085",
+    "product_name": "鰺魚"
+  },
+  {
+    "product_code": "2086",
+    "product_name": "三角仔、金錢仔"
+  },
+  {
+    "product_code": "2089",
+    "product_name": "其他鰺類"
+  },
+  {
+    "product_code": "2091",
+    "product_name": "白鯧"
+  },
+  {
+    "product_code": "2092",
+    "product_name": "黑鯧"
+  },
+  {
+    "product_code": "2093",
+    "product_name": "銀鯧"
+  },
+  {
+    "product_code": "2094",
+    "product_name": "西鯧"
+  },
+  {
+    "product_code": "2099",
+    "product_name": "其他鯧類"
+  },
+  {
+    "product_code": "2101",
+    "product_name": "臭肉"
+  },
+  {
+    "product_code": "2102",
+    "product_name": "青鱗"
+  },
+  {
+    "product_code": "2103",
+    "product_name": "鱙仔"
+  },
+  {
+    "product_code": "2104",
+    "product_name": "苦蚵"
+  },
+  {
+    "product_code": "2105",
+    "product_name": "丁香"
+  },
+  {
+    "product_code": "2106",
+    "product_name": "勿仔"
+  },
+  {
+    "product_code": "2109",
+    "product_name": "其他鰮類"
+  },
+  {
+    "product_code": "2110",
+    "product_name": "加工用黑鮪"
+  },
+  {
+    "product_code": "2111",
+    "product_name": "長鰭鮪"
+  },
+  {
+    "product_code": "2112",
+    "product_name": "大眼鮪"
+  },
+  {
+    "product_code": "2113",
+    "product_name": "黃鰭鮪"
+  },
+  {
+    "product_code": "2114",
+    "product_name": "黑鮪"
+  },
+  {
+    "product_code": "2115",
+    "product_name": "小串仔"
+  },
+  {
+    "product_code": "2116",
+    "product_name": "黑鮪肉"
+  },
+  {
+    "product_code": "2119",
+    "product_name": "其他鮪魚"
+  },
+  {
+    "product_code": "2121",
+    "product_name": "真鰹"
+  },
+  {
+    "product_code": "2122",
+    "product_name": "花鰹"
+  },
+  {
+    "product_code": "2123",
+    "product_name": "圓花鰹"
+  },
+  {
+    "product_code": "2124",
+    "product_name": "煙仔虎"
+  },
+  {
+    "product_code": "2125",
+    "product_name": "巴鰹、三點仔"
+  },
+  {
+    "product_code": "2129",
+    "product_name": "其他鰹類"
+  },
+  {
+    "product_code": "2131",
+    "product_name": "劍旗魚"
+  },
+  {
+    "product_code": "2132",
+    "product_name": "紅肉旗"
+  },
+  {
+    "product_code": "2133",
+    "product_name": "黑皮旗"
+  },
+  {
+    "product_code": "2134",
+    "product_name": "白皮旗"
+  },
+  {
+    "product_code": "2135",
+    "product_name": "雨傘旗"
+  },
+  {
+    "product_code": "2136",
+    "product_name": "旗魚肉"
+  },
+  {
+    "product_code": "2139",
+    "product_name": "其他旗魚"
+  },
+  {
+    "product_code": "2141",
+    "product_name": "土魠"
+  },
+  {
+    "product_code": "2142",
+    "product_name": "馬加"
+  },
+  {
+    "product_code": "2143",
+    "product_name": "白北"
+  },
+  {
+    "product_code": "2144",
+    "product_name": "西齒"
+  },
+  {
+    "product_code": "2145",
+    "product_name": "石喬"
+  },
+  {
+    "product_code": "2146",
+    "product_name": "闊北"
+  },
+  {
+    "product_code": "2149",
+    "product_name": "其他鰆類"
+  },
+  {
+    "product_code": "2150",
+    "product_name": "狐鯊"
+  },
+  {
+    "product_code": "2151",
+    "product_name": "大鯊"
+  },
+  {
+    "product_code": "2152",
+    "product_name": "鯊條"
+  },
+  {
+    "product_code": "2153",
+    "product_name": "鯊煙"
+  },
+  {
+    "product_code": "2154",
+    "product_name": "鯊翅"
+  },
+  {
+    "product_code": "2155",
+    "product_name": "角鯊"
+  },
+  {
+    "product_code": "2156",
+    "product_name": "黑鯊"
+  },
+  {
+    "product_code": "2157",
+    "product_name": "水鯊"
+  },
+  {
+    "product_code": "2158",
+    "product_name": "馬加鯊"
+  },
+  {
+    "product_code": "2159",
+    "product_name": "其他鯊魚"
+  },
+  {
+    "product_code": "2160",
+    "product_name": "雙髻鮫"
+  },
+  {
+    "product_code": "2161",
+    "product_name": "魷魚"
+  },
+  {
+    "product_code": "2162",
+    "product_name": "墨魚賊"
+  },
+  {
+    "product_code": "2163",
+    "product_name": "花枝"
+  },
+  {
+    "product_code": "2164",
+    "product_name": "透抽"
+  },
+  {
+    "product_code": "2165",
+    "product_name": "軟舌、軟絲"
+  },
+  {
+    "product_code": "2166",
+    "product_name": "小卷"
+  },
+  {
+    "product_code": "2167",
+    "product_name": "闊弓"
+  },
+  {
+    "product_code": "2168",
+    "product_name": "目斗"
+  },
+  {
+    "product_code": "2169",
+    "product_name": "章魚"
+  },
+  {
+    "product_code": "2179",
+    "product_name": "其他頭足"
+  },
+  {
+    "product_code": "2181",
+    "product_name": "馬頭魚"
+  },
+  {
+    "product_code": "2191",
+    "product_name": "龍尖、青嘴"
+  },
+  {
+    "product_code": "2201",
+    "product_name": "石斑魚"
+  },
+  {
+    "product_code": "2202",
+    "product_name": "小紅鱠"
+  },
+  {
+    "product_code": "2211",
+    "product_name": "狗母"
+  },
+  {
+    "product_code": "2212",
+    "product_name": "花狗母"
+  },
+  {
+    "product_code": "2221",
+    "product_name": "海鰻"
+  },
+  {
+    "product_code": "2231",
+    "product_name": "海鯰"
+  },
+  {
+    "product_code": "2238",
+    "product_name": "海鯽魚"
+  },
+  {
+    "product_code": "2241",
+    "product_name": "石鯽"
+  },
+  {
+    "product_code": "2242",
+    "product_name": "變身苦"
+  },
+  {
+    "product_code": "2251",
+    "product_name": "皮刀"
+  },
+  {
+    "product_code": "2252",
+    "product_name": "黑皮刀"
+  },
+  {
+    "product_code": "2261",
+    "product_name": "肉魚"
+  },
+  {
+    "product_code": "2271",
+    "product_name": "午仔魚"
+  },
+  {
+    "product_code": "2281",
+    "product_name": "飛魚"
+  },
+  {
+    "product_code": "2282",
+    "product_name": "飛魚卵"
+  },
+  {
+    "product_code": "2291",
+    "product_name": "暑魚"
+  },
+  {
+    "product_code": "2292",
+    "product_name": "萬引"
+  },
+  {
+    "product_code": "2301",
+    "product_name": "尖梭"
+  },
+  {
+    "product_code": "2302",
+    "product_name": "竹梭"
+  },
+  {
+    "product_code": "2311",
+    "product_name": "西刀"
+  },
+  {
+    "product_code": "2321",
+    "product_name": "油魚"
+  },
+  {
+    "product_code": "2331",
+    "product_name": "鯖魚"
+  },
+  {
+    "product_code": "2341",
+    "product_name": "（日本）白帶魚"
+  },
+  {
+    "product_code": "2342",
+    "product_name": "黃目帶"
+  },
+  {
+    "product_code": "2351",
+    "product_name": "鱝(魴仔)"
+  },
+  {
+    "product_code": "2361",
+    "product_name": "智仔"
+  },
+  {
+    "product_code": "2371",
+    "product_name": "烏鞭"
+  },
+  {
+    "product_code": "2381",
+    "product_name": "青鞭"
+  },
+  {
+    "product_code": "2391",
+    "product_name": "咬狗"
+  },
+  {
+    "product_code": "2401",
+    "product_name": "扁魚"
+  },
+  {
+    "product_code": "2411",
+    "product_name": "龍舌"
+  },
+  {
+    "product_code": "2421",
+    "product_name": "白松"
+  },
+  {
+    "product_code": "2431",
+    "product_name": "厚唇"
+  },
+  {
+    "product_code": "2440",
+    "product_name": "石狗公"
+  },
+  {
+    "product_code": "2441",
+    "product_name": "牛尾"
+  },
+  {
+    "product_code": "2451",
+    "product_name": "金鼓"
+  },
+  {
+    "product_code": "2461",
+    "product_name": "長加"
+  },
+  {
+    "product_code": "2471",
+    "product_name": "秋哥"
+  },
+  {
+    "product_code": "2481",
+    "product_name": "英哥"
+  },
+  {
+    "product_code": "2482",
+    "product_name": "紅鰱魚"
+  },
+  {
+    "product_code": "2483",
+    "product_name": "青衣"
+  },
+  {
+    "product_code": "2491",
+    "product_name": "海鱺"
+  },
+  {
+    "product_code": "2501",
+    "product_name": "赤筆"
+  },
+  {
+    "product_code": "2511",
+    "product_name": "金龍、石鱸"
+  },
+  {
+    "product_code": "2512",
+    "product_name": "加志"
+  },
+  {
+    "product_code": "2521",
+    "product_name": "秋刀"
+  },
+  {
+    "product_code": "2531",
+    "product_name": "國光、角仔魚"
+  },
+  {
+    "product_code": "2532",
+    "product_name": "九岩"
+  },
+  {
+    "product_code": "2541",
+    "product_name": "青筆、雞仔魚"
+  },
+  {
+    "product_code": "2551",
+    "product_name": "沙腸"
+  },
+  {
+    "product_code": "2561",
+    "product_name": "鰣魚"
+  },
+  {
+    "product_code": "2562",
+    "product_name": "什魚"
+  },
+  {
+    "product_code": "2563",
+    "product_name": "象魚(臭肚)"
+  },
+  {
+    "product_code": "2564",
+    "product_name": "下雜魚"
+  },
+  {
+    "product_code": "2568",
+    "product_name": "肉栓"
+  },
+  {
+    "product_code": "2570",
+    "product_name": "剝皮魚（黑達仔）"
+  },
+  {
+    "product_code": "2571",
+    "product_name": "剝皮魚"
+  },
+  {
+    "product_code": "2572",
+    "product_name": "剝皮魚去頭"
+  },
+  {
+    "product_code": "2601",
+    "product_name": "烏母"
+  },
+  {
+    "product_code": "2602",
+    "product_name": "烏公"
+  },
+  {
+    "product_code": "2603",
+    "product_name": "烏殼"
+  },
+  {
+    "product_code": "2609",
+    "product_name": "其他烏魚"
+  },
+  {
+    "product_code": "2611",
+    "product_name": "水針"
+  },
+  {
+    "product_code": "2621",
+    "product_name": "鯖河魨"
+  },
+  {
+    "product_code": "2631",
+    "product_name": "香魚"
+  },
+  {
+    "product_code": "2781",
+    "product_name": "鮭魚"
+  },
+  {
+    "product_code": "2782",
+    "product_name": "鮭魚頭/尾"
+  },
+  {
+    "product_code": "2901",
+    "product_name": "翻車魚"
+  },
+  {
+    "product_code": "2905",
+    "product_name": "鮟鱇魚"
+  },
+  {
+    "product_code": "2997",
+    "product_name": "待訂"
+  },
+  {
+    "product_code": "2998",
+    "product_name": "干貝"
+  },
+  {
+    "product_code": "2999",
+    "product_name": "其他非凍結魚"
+  },
+  {
+    "product_code": "3010",
+    "product_name": "美軟魚、大面側仔凍"
+  },
+  {
+    "product_code": "3011",
+    "product_name": "加鱲(凍)"
+  },
+  {
+    "product_code": "3012",
+    "product_name": "赤宗(凍)"
+  },
+  {
+    "product_code": "3013",
+    "product_name": "盤仔(凍)"
+  },
+  {
+    "product_code": "3014",
+    "product_name": "赤翅(凍)"
+  },
+  {
+    "product_code": "3015",
+    "product_name": "黑鯛(凍)"
+  },
+  {
+    "product_code": "3016",
+    "product_name": "白鯛(凍)"
+  },
+  {
+    "product_code": "3017",
+    "product_name": "花身凍"
+  },
+  {
+    "product_code": "3019",
+    "product_name": "其他鯛類(凍)"
+  },
+  {
+    "product_code": "3021",
+    "product_name": "金線(凍)"
+  },
+  {
+    "product_code": "3031",
+    "product_name": "赤海(凍)"
+  },
+  {
+    "product_code": "3041",
+    "product_name": "秋姑(凍)"
+  },
+  {
+    "product_code": "3042",
+    "product_name": "紅魚(凍)"
+  },
+  {
+    "product_code": "3051",
+    "product_name": "紅目鰱(凍)"
+  },
+  {
+    "product_code": "3060",
+    "product_name": "紅喉凍"
+  },
+  {
+    "product_code": "3061",
+    "product_name": "黃花凍"
+  },
+  {
+    "product_code": "3062",
+    "product_name": "三牙凍"
+  },
+  {
+    "product_code": "3063",
+    "product_name": "黑口(凍)"
+  },
+  {
+    "product_code": "3064",
+    "product_name": "白口(凍)"
+  },
+  {
+    "product_code": "3065",
+    "product_name": "火口(凍)"
+  },
+  {
+    "product_code": "3066",
+    "product_name": "油口(凍)"
+  },
+  {
+    "product_code": "3067",
+    "product_name": "鮸魚(凍)"
+  },
+  {
+    "product_code": "3069",
+    "product_name": "其他黃花(凍)"
+  },
+  {
+    "product_code": "3071",
+    "product_name": "四破(凍)"
+  },
+  {
+    "product_code": "3072",
+    "product_name": "目孔(凍)"
+  },
+  {
+    "product_code": "3073",
+    "product_name": "硬尾(凍)"
+  },
+  {
+    "product_code": "3074",
+    "product_name": "巴闌(凍)"
+  },
+  {
+    "product_code": "3075",
+    "product_name": "紅尾凍"
+  },
+  {
+    "product_code": "3076",
+    "product_name": "鐵甲(凍)"
+  },
+  {
+    "product_code": "3077",
+    "product_name": "甘瓜仔凍"
+  },
+  {
+    "product_code": "3078",
+    "product_name": "青魽(凍)"
+  },
+  {
+    "product_code": "3079",
+    "product_name": "紅魽(凍)"
+  },
+  {
+    "product_code": "3080",
+    "product_name": "黑魽(凍)"
+  },
+  {
+    "product_code": "3081",
+    "product_name": "油魽凍"
+  },
+  {
+    "product_code": "3089",
+    "product_name": "其他鰺類(凍)"
+  },
+  {
+    "product_code": "3091",
+    "product_name": "白鯧(凍)"
+  },
+  {
+    "product_code": "3092",
+    "product_name": "黑鯧(凍)"
+  },
+  {
+    "product_code": "3093",
+    "product_name": "銀鯧(凍)"
+  },
+  {
+    "product_code": "3094",
+    "product_name": "西鯧(凍)"
+  },
+  {
+    "product_code": "3099",
+    "product_name": "其他鯧類(凍)"
+  },
+  {
+    "product_code": "3101",
+    "product_name": "臭肉(凍)"
+  },
+  {
+    "product_code": "3102",
+    "product_name": "青鱗(凍)"
+  },
+  {
+    "product_code": "3103",
+    "product_name": "鱙仔(凍)"
+  },
+  {
+    "product_code": "3104",
+    "product_name": "苦蚵(凍)"
+  },
+  {
+    "product_code": "3105",
+    "product_name": "丁香(凍)"
+  },
+  {
+    "product_code": "3106",
+    "product_name": "勿仔(凍)"
+  },
+  {
+    "product_code": "3109",
+    "product_name": "其他鰮類(凍)"
+  },
+  {
+    "product_code": "3111",
+    "product_name": "長鰭鮪凍"
+  },
+  {
+    "product_code": "3112",
+    "product_name": "大眼鮪凍"
+  },
+  {
+    "product_code": "3113",
+    "product_name": "黃鰭鮪凍"
+  },
+  {
+    "product_code": "3114",
+    "product_name": "黑鮪凍"
+  },
+  {
+    "product_code": "3115",
+    "product_name": "小串仔凍"
+  },
+  {
+    "product_code": "3119",
+    "product_name": "其他鮪魚(凍)"
+  },
+  {
+    "product_code": "3121",
+    "product_name": "真鰹(凍)"
+  },
+  {
+    "product_code": "3122",
+    "product_name": "花鰹(凍)"
+  },
+  {
+    "product_code": "3123",
+    "product_name": "圓花鰹(凍)"
+  },
+  {
+    "product_code": "3124",
+    "product_name": "煙仔虎(凍)"
+  },
+  {
+    "product_code": "3125",
+    "product_name": "巴鰹、三點仔(凍)"
+  },
+  {
+    "product_code": "3129",
+    "product_name": "其他鰹類(凍)"
+  },
+  {
+    "product_code": "3131",
+    "product_name": "劍旗魚凍"
+  },
+  {
+    "product_code": "3132",
+    "product_name": "紅肉旗(凍)"
+  },
+  {
+    "product_code": "3133",
+    "product_name": "黑皮旗凍"
+  },
+  {
+    "product_code": "3134",
+    "product_name": "白皮旗(凍)"
+  },
+  {
+    "product_code": "3135",
+    "product_name": "雨傘旗(凍)"
+  },
+  {
+    "product_code": "3136",
+    "product_name": "旗魚肉【凍】"
+  },
+  {
+    "product_code": "3137",
+    "product_name": "紅肉丁挽(短吻旗魚)"
+  },
+  {
+    "product_code": "3138",
+    "product_name": "長吻旗魚"
+  },
+  {
+    "product_code": "3139",
+    "product_name": "其他旗魚(凍)"
+  },
+  {
+    "product_code": "3141",
+    "product_name": "土魠(凍)"
+  },
+  {
+    "product_code": "3142",
+    "product_name": "馬加(凍)"
+  },
+  {
+    "product_code": "3143",
+    "product_name": "白北(凍)"
+  },
+  {
+    "product_code": "3144",
+    "product_name": "西齒(凍)"
+  },
+  {
+    "product_code": "3145",
+    "product_name": "石喬(凍)"
+  },
+  {
+    "product_code": "3149",
+    "product_name": "其他鰆類(凍)"
+  },
+  {
+    "product_code": "3150",
+    "product_name": "狐鯊凍"
+  },
+  {
+    "product_code": "3151",
+    "product_name": "大鯊【凍】"
+  },
+  {
+    "product_code": "3152",
+    "product_name": "鯊條(凍)"
+  },
+  {
+    "product_code": "3153",
+    "product_name": "鯊煙(凍)"
+  },
+  {
+    "product_code": "3154",
+    "product_name": "鯊翅(凍)"
+  },
+  {
+    "product_code": "3155",
+    "product_name": "水鯊翅【凍】"
+  },
+  {
+    "product_code": "3156",
+    "product_name": "黑鯊(凍)"
+  },
+  {
+    "product_code": "3157",
+    "product_name": "水鯊凍"
+  },
+  {
+    "product_code": "3158",
+    "product_name": "馬加鯊凍"
+  },
+  {
+    "product_code": "3159",
+    "product_name": "其他鯊魚(凍)"
+  },
+  {
+    "product_code": "3160",
+    "product_name": "雙髻鮫凍"
+  },
+  {
+    "product_code": "3161",
+    "product_name": "魷魚(凍)"
+  },
+  {
+    "product_code": "3162",
+    "product_name": "墨魚賊(凍)"
+  },
+  {
+    "product_code": "3163",
+    "product_name": "花枝(凍)"
+  },
+  {
+    "product_code": "3164",
+    "product_name": "透抽(凍)"
+  },
+  {
+    "product_code": "3165",
+    "product_name": "軟舌、軟絲(凍)"
+  },
+  {
+    "product_code": "3166",
+    "product_name": "小卷(凍)"
+  },
+  {
+    "product_code": "3167",
+    "product_name": "闊弓(凍)"
+  },
+  {
+    "product_code": "3168",
+    "product_name": "目斗(凍)"
+  },
+  {
+    "product_code": "3169",
+    "product_name": "章魚(凍)"
+  },
+  {
+    "product_code": "3170",
+    "product_name": "阿根廷魷魚"
+  },
+  {
+    "product_code": "3171",
+    "product_name": "阿根廷魷魚胴體"
+  },
+  {
+    "product_code": "3172",
+    "product_name": "阿根廷魷魚頭"
+  },
+  {
+    "product_code": "3173",
+    "product_name": "北太赤魷"
+  },
+  {
+    "product_code": "3174",
+    "product_name": "北太赤魷胴體"
+  },
+  {
+    "product_code": "3175",
+    "product_name": "北太赤魷頭"
+  },
+  {
+    "product_code": "3176",
+    "product_name": "美洲大赤魷"
+  },
+  {
+    "product_code": "3177",
+    "product_name": "美洲大赤魷胴體"
+  },
+  {
+    "product_code": "3178",
+    "product_name": "美洲大赤魷頭"
+  },
+  {
+    "product_code": "3179",
+    "product_name": "其他頭足(凍)"
+  },
+  {
+    "product_code": "3181",
+    "product_name": "馬頭魚(凍)"
+  },
+  {
+    "product_code": "3191",
+    "product_name": "龍尖、青嘴凍"
+  },
+  {
+    "product_code": "3201",
+    "product_name": "石斑魚(凍)"
+  },
+  {
+    "product_code": "3202",
+    "product_name": "小紅鱠(凍)"
+  },
+  {
+    "product_code": "3203",
+    "product_name": "紅條(凍)"
+  },
+  {
+    "product_code": "3211",
+    "product_name": "狗母(凍)"
+  },
+  {
+    "product_code": "3221",
+    "product_name": "海鰻(凍)"
+  },
+  {
+    "product_code": "3231",
+    "product_name": "海鯰(凍)"
+  },
+  {
+    "product_code": "3241",
+    "product_name": "石鯽(凍)"
+  },
+  {
+    "product_code": "3251",
+    "product_name": "皮刀(凍)"
+  },
+  {
+    "product_code": "3252",
+    "product_name": "黑皮刀(凍)"
+  },
+  {
+    "product_code": "3261",
+    "product_name": "肉魚(凍)"
+  },
+  {
+    "product_code": "3271",
+    "product_name": "午仔魚(凍)"
+  },
+  {
+    "product_code": "3281",
+    "product_name": "飛魚(凍)"
+  },
+  {
+    "product_code": "3291",
+    "product_name": "暑魚凍"
+  },
+  {
+    "product_code": "3292",
+    "product_name": "萬引(凍)"
+  },
+  {
+    "product_code": "3301",
+    "product_name": "尖梭(凍)"
+  },
+  {
+    "product_code": "3302",
+    "product_name": "竹梭凍"
+  },
+  {
+    "product_code": "3311",
+    "product_name": "西刀(凍)"
+  },
+  {
+    "product_code": "3321",
+    "product_name": "油魚(凍)"
+  },
+  {
+    "product_code": "3322",
+    "product_name": "細鱗油甘(凍)"
+  },
+  {
+    "product_code": "3323",
+    "product_name": "粗鱗油甘(凍)"
+  },
+  {
+    "product_code": "3324",
+    "product_name": "油甘舅【凍】"
+  },
+  {
+    "product_code": "3325",
+    "product_name": "油甘肚【凍】"
+  },
+  {
+    "product_code": "3331",
+    "product_name": "鯖魚(凍)"
+  },
+  {
+    "product_code": "3341",
+    "product_name": "（日本）白帶魚凍"
+  },
+  {
+    "product_code": "3342",
+    "product_name": "黃目帶凍"
+  },
+  {
+    "product_code": "3351",
+    "product_name": "鱝(魴仔)(凍)"
+  },
+  {
+    "product_code": "3361",
+    "product_name": "智仔(凍)"
+  },
+  {
+    "product_code": "3371",
+    "product_name": "烏鞭(凍)"
+  },
+  {
+    "product_code": "3381",
+    "product_name": "青鞭(凍)"
+  },
+  {
+    "product_code": "3391",
+    "product_name": "咬狗(凍)"
+  },
+  {
+    "product_code": "3401",
+    "product_name": "扁魚(凍)"
+  },
+  {
+    "product_code": "3411",
+    "product_name": "龍舌(凍)"
+  },
+  {
+    "product_code": "3421",
+    "product_name": "白松(凍)"
+  },
+  {
+    "product_code": "3431",
+    "product_name": "厚唇(凍)"
+  },
+  {
+    "product_code": "3440",
+    "product_name": "石狗公凍"
+  },
+  {
+    "product_code": "3441",
+    "product_name": "牛尾(凍)"
+  },
+  {
+    "product_code": "3451",
+    "product_name": "金鼓(凍)"
+  },
+  {
+    "product_code": "3461",
+    "product_name": "長加(凍)"
+  },
+  {
+    "product_code": "3471",
+    "product_name": "秋哥(凍)"
+  },
+  {
+    "product_code": "3481",
+    "product_name": "英哥凍"
+  },
+  {
+    "product_code": "3491",
+    "product_name": "海鱺(凍)"
+  },
+  {
+    "product_code": "3501",
+    "product_name": "赤筆(凍)"
+  },
+  {
+    "product_code": "3511",
+    "product_name": "金龍、石鱸(凍)"
+  },
+  {
+    "product_code": "3512",
+    "product_name": "加志(凍)"
+  },
+  {
+    "product_code": "3521",
+    "product_name": "秋刀(凍)"
+  },
+  {
+    "product_code": "3531",
+    "product_name": "國光(凍)"
+  },
+  {
+    "product_code": "3541",
+    "product_name": "青筆(凍)"
+  },
+  {
+    "product_code": "3551",
+    "product_name": "沙腸(凍)"
+  },
+  {
+    "product_code": "3561",
+    "product_name": "鰣魚(凍)"
+  },
+  {
+    "product_code": "3562",
+    "product_name": "什魚(凍)"
+  },
+  {
+    "product_code": "3564",
+    "product_name": "下雜魚(凍)"
+  },
+  {
+    "product_code": "3568",
+    "product_name": "肉栓(凍)"
+  },
+  {
+    "product_code": "3570",
+    "product_name": "剝皮魚（黑達仔）凍"
+  },
+  {
+    "product_code": "3571",
+    "product_name": "剝皮魚(凍)"
+  },
+  {
+    "product_code": "3572",
+    "product_name": "剝皮魚去頭【凍】"
+  },
+  {
+    "product_code": "3601",
+    "product_name": "烏母(凍)"
+  },
+  {
+    "product_code": "3602",
+    "product_name": "烏公(凍)"
+  },
+  {
+    "product_code": "3603",
+    "product_name": "烏殼(凍)"
+  },
+  {
+    "product_code": "3609",
+    "product_name": "其他烏魚(凍)"
+  },
+  {
+    "product_code": "3611",
+    "product_name": "水針(凍)"
+  },
+  {
+    "product_code": "3621",
+    "product_name": "鯖河魨(凍)"
+  },
+  {
+    "product_code": "3631",
+    "product_name": "香魚(凍)"
+  },
+  {
+    "product_code": "3632",
+    "product_name": "柳葉魚(凍)"
+  },
+  {
+    "product_code": "3641",
+    "product_name": "比目魚、扁鱈"
+  },
+  {
+    "product_code": "3642",
+    "product_name": "圓鱈、智利海鱸"
+  },
+  {
+    "product_code": "3660",
+    "product_name": "魚腸(凍)"
+  },
+  {
+    "product_code": "3781",
+    "product_name": "鮭魚(凍)"
+  },
+  {
+    "product_code": "3782",
+    "product_name": "鮭魚頭/尾凍"
+  },
+  {
+    "product_code": "3901",
+    "product_name": "翻車魚凍"
+  },
+  {
+    "product_code": "3905",
+    "product_name": "鮟鱇魚凍"
+  },
+  {
+    "product_code": "3910",
+    "product_name": "紅皮刀凍"
+  },
+  {
+    "product_code": "3998",
+    "product_name": "干貝凍"
+  },
+  {
+    "product_code": "3999",
+    "product_name": "其他凍結(凍)"
+  },
+  {
+    "product_code": "4010",
+    "product_name": "溪蝦"
+  },
+  {
+    "product_code": "4011",
+    "product_name": "草蝦海"
+  },
+  {
+    "product_code": "4012",
+    "product_name": "草蝦養"
+  },
+  {
+    "product_code": "4015",
+    "product_name": "白蝦"
+  },
+  {
+    "product_code": "4016",
+    "product_name": "蝦仁"
+  },
+  {
+    "product_code": "4021",
+    "product_name": "沙蝦海"
+  },
+  {
+    "product_code": "4022",
+    "product_name": "沙蝦養"
+  },
+  {
+    "product_code": "4032",
+    "product_name": "泰國蝦養"
+  },
+  {
+    "product_code": "4041",
+    "product_name": "紅尾蝦海"
+  },
+  {
+    "product_code": "4042",
+    "product_name": "紅尾蝦養"
+  },
+  {
+    "product_code": "4051",
+    "product_name": "斑節蝦海"
+  },
+  {
+    "product_code": "4052",
+    "product_name": "斑節蝦養"
+  },
+  {
+    "product_code": "4061",
+    "product_name": "大正蝦海"
+  },
+  {
+    "product_code": "4062",
+    "product_name": "大正蝦養"
+  },
+  {
+    "product_code": "4071",
+    "product_name": "劍蝦"
+  },
+  {
+    "product_code": "4081",
+    "product_name": "白秋蝦海"
+  },
+  {
+    "product_code": "4091",
+    "product_name": "厚殼蝦海"
+  },
+  {
+    "product_code": "4101",
+    "product_name": "紅蝦海"
+  },
+  {
+    "product_code": "4111",
+    "product_name": "蘆蝦海"
+  },
+  {
+    "product_code": "4121",
+    "product_name": "小蝦海"
+  },
+  {
+    "product_code": "4131",
+    "product_name": "龍蝦海"
+  },
+  {
+    "product_code": "4141",
+    "product_name": "蝦姑海"
+  },
+  {
+    "product_code": "4142",
+    "product_name": "蝦猴海"
+  },
+  {
+    "product_code": "4151",
+    "product_name": "赤尾青蝦"
+  },
+  {
+    "product_code": "4152",
+    "product_name": "大冇蝦"
+  },
+  {
+    "product_code": "4161",
+    "product_name": "櫻花蝦"
+  },
+  {
+    "product_code": "4162",
+    "product_name": "肉栓"
+  },
+  {
+    "product_code": "4401",
+    "product_name": "火燒蝦"
+  },
+  {
+    "product_code": "4402",
+    "product_name": "長角鬥士赤蝦"
+  },
+  {
+    "product_code": "4404",
+    "product_name": "蝦母、東方異腕蝦"
+  },
+  {
+    "product_code": "4405",
+    "product_name": "白丁蝦、日本玻璃蝦"
+  },
+  {
+    "product_code": "4406",
+    "product_name": "胭脂蝦"
+  },
+  {
+    "product_code": "4407",
+    "product_name": "角蝦、鐵甲蝦"
+  },
+  {
+    "product_code": "4408",
+    "product_name": "石蟳"
+  },
+  {
+    "product_code": "4409",
+    "product_name": "牛角蟹、黃金蟹"
+  },
+  {
+    "product_code": "4509",
+    "product_name": "其他蝦類"
+  },
+  {
+    "product_code": "4511",
+    "product_name": "蟳"
+  },
+  {
+    "product_code": "4512",
+    "product_name": "紅蟳"
+  },
+  {
+    "product_code": "4513",
+    "product_name": "三點仔"
+  },
+  {
+    "product_code": "4521",
+    "product_name": "花市仔"
+  },
+  {
+    "product_code": "4522",
+    "product_name": "市仔管"
+  },
+  {
+    "product_code": "4532",
+    "product_name": "菜蟳"
+  },
+  {
+    "product_code": "4999",
+    "product_name": "其他蟹類"
+  },
+  {
+    "product_code": "5012",
+    "product_name": "牡蠣養"
+  },
+  {
+    "product_code": "5021",
+    "product_name": "文蛤(海)"
+  },
+  {
+    "product_code": "5022",
+    "product_name": "文蛤養"
+  },
+  {
+    "product_code": "5032",
+    "product_name": "蜊(養)"
+  },
+  {
+    "product_code": "5042",
+    "product_name": "血蚶(養)"
+  },
+  {
+    "product_code": "5051",
+    "product_name": "九孔(海)"
+  },
+  {
+    "product_code": "5052",
+    "product_name": "九孔(養)"
+  },
+  {
+    "product_code": "5053",
+    "product_name": "鮑魚"
+  },
+  {
+    "product_code": "5054",
+    "product_name": "扇貝"
+  },
+  {
+    "product_code": "5061",
+    "product_name": "鐘螺(海)"
+  },
+  {
+    "product_code": "5072",
+    "product_name": "西刀舌(養)"
+  },
+  {
+    "product_code": "5081",
+    "product_name": "日月蟶(海)"
+  },
+  {
+    "product_code": "5092",
+    "product_name": "蜆(養)"
+  },
+  {
+    "product_code": "5101",
+    "product_name": "竹蟶海"
+  },
+  {
+    "product_code": "5111",
+    "product_name": "鳳螺(海)"
+  },
+  {
+    "product_code": "5121",
+    "product_name": "花螺(海)"
+  },
+  {
+    "product_code": "5888",
+    "product_name": "海瓜子"
+  },
+  {
+    "product_code": "5889",
+    "product_name": "花蚧子"
+  },
+  {
+    "product_code": "5901",
+    "product_name": "翻車魚肉"
+  },
+  {
+    "product_code": "5999",
+    "product_name": "其他貝類"
+  },
+  {
+    "product_code": "6008",
+    "product_name": "圓鱈片"
+  },
+  {
+    "product_code": "6009",
+    "product_name": "比目魚片"
+  },
+  {
+    "product_code": "6010",
+    "product_name": "鮭魚片"
+  },
+  {
+    "product_code": "6011",
+    "product_name": "紅魚"
+  },
+  {
+    "product_code": "6012",
+    "product_name": "海參"
+  },
+  {
+    "product_code": "6016",
+    "product_name": "鮭"
+  },
+  {
+    "product_code": "6021",
+    "product_name": "鹹魚"
+  },
+  {
+    "product_code": "6031",
+    "product_name": "魚丸"
+  },
+  {
+    "product_code": "6049",
+    "product_name": "其他加工"
+  },
+  {
+    "product_code": "6050",
+    "product_name": "熟卷"
+  },
+  {
+    "product_code": "6051",
+    "product_name": "熟小破"
+  },
+  {
+    "product_code": "6052",
+    "product_name": "烏魚子"
+  },
+  {
+    "product_code": "6061",
+    "product_name": "熟四破"
+  },
+  {
+    "product_code": "6071",
+    "product_name": "熟丁香"
+  },
+  {
+    "product_code": "6081",
+    "product_name": "熟鯖魚"
+  },
+  {
+    "product_code": "6099",
+    "product_name": "其他熟魚"
+  },
+  {
+    "product_code": "6101",
+    "product_name": "海菜"
+  },
+  {
+    "product_code": "6110",
+    "product_name": "魚肚"
+  },
+  {
+    "product_code": "6111",
+    "product_name": "魚內臟"
+  },
+  {
+    "product_code": "6112",
+    "product_name": "魚卵"
+  },
+  {
+    "product_code": "6113",
+    "product_name": "魚皮"
+  },
+  {
+    "product_code": "6114",
+    "product_name": "魚肉"
+  },
+  {
+    "product_code": "6152",
+    "product_name": "水鯊含翅【凍】"
+  },
+  {
+    "product_code": "6153",
+    "product_name": "水鯊腹肉【凍】"
+  },
+  {
+    "product_code": "6154",
+    "product_name": "水鯊胃袋【凍】"
+  },
+  {
+    "product_code": "6156",
+    "product_name": "馬加鯊翅【凍】"
+  },
+  {
+    "product_code": "6159",
+    "product_name": "馬加鯊胃袋【凍】"
+  },
+  {
+    "product_code": "6160",
+    "product_name": "馬加舅【凍】"
+  },
+  {
+    "product_code": "6161",
+    "product_name": "馬加舅翅【凍】"
+  },
+  {
+    "product_code": "6165",
+    "product_name": "其他鯖鯊【凍】"
+  },
+  {
+    "product_code": "6168",
+    "product_name": "紅肉阿髻鮫【凍】"
+  },
+  {
+    "product_code": "6169",
+    "product_name": "紅肉阿髻鮫翅【凍】"
+  },
+  {
+    "product_code": "6172",
+    "product_name": "阿髻鮫【凍】"
+  },
+  {
+    "product_code": "6173",
+    "product_name": "阿髻鮫翅【凍】"
+  },
+  {
+    "product_code": "6176",
+    "product_name": "其他阿髻鮫【凍】"
+  },
+  {
+    "product_code": "6179",
+    "product_name": "淺海狐鮫【凍】"
+  },
+  {
+    "product_code": "6180",
+    "product_name": "淺海狐鮫翅【凍】"
+  },
+  {
+    "product_code": "6181",
+    "product_name": "淺海狐鮫胃袋【凍】"
+  },
+  {
+    "product_code": "6183",
+    "product_name": "深海狐鮫【凍】"
+  },
+  {
+    "product_code": "6184",
+    "product_name": "深海狐鮫翅【凍】"
+  },
+  {
+    "product_code": "6185",
+    "product_name": "深海狐鮫胃袋【凍】"
+  },
+  {
+    "product_code": "6188",
+    "product_name": "黑鯊翅【凍】"
+  },
+  {
+    "product_code": "6194",
+    "product_name": "其他白眼鮫【凍】"
+  },
+  {
+    "product_code": "6729",
+    "product_name": "待定"
+  },
+  {
+    "product_code": "7001",
+    "product_name": "桃紅珊瑚(Momo)"
+  },
+  {
+    "product_code": "7002",
+    "product_name": "深紅珊瑚(Aka)"
+  },
+  {
+    "product_code": "7003",
+    "product_name": "白珊瑚(Shiro)"
+  },
+  {
+    "product_code": "7004",
+    "product_name": "粉紅珊瑚(Miss)"
+  },
+  {
+    "product_code": "7005",
+    "product_name": "其他珊瑚"
+  },
+  {
+    "product_code": "9999",
+    "product_name": "其他"
+  }
+]
