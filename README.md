@@ -9,5 +9,5 @@ python3 bootstrap.py
 ```
 Install Fishery-transaction-analysis tools:
 ```bash
-pyhton install_seed_content.py
+python3 install_seed_content.py
 ```
